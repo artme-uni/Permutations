@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/twiggy/CLion/Dijkstra!!!!/main.c
+permutation.h
+/Users/twiggy/CLion/Dijkstra!!!!/permutation.h
+
+/Users/twiggy/CLion/Dijkstra!!!!/permutation.c
+permutation.h
+/Users/twiggy/CLion/Dijkstra!!!!/permutation.h
+
+/Users/twiggy/CLion/Dijkstra!!!!/permutation.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
